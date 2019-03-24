@@ -10,23 +10,23 @@ So far this applcation has four commands:
  
 Format: node liri.js [command] [User Input]
  
- ### Demo
- ##### Concert-this
+ ## Demo
+ ### Concert-this
  ![concert-this](/Demo/concert-this.gif)
  * Displays information about an upcoming concert of a given artist.
- ##### Spotify-this-song
+ ### Spotify-this-song
  ![spotify-this-song](/Demo/spotify-this.gif)
  * Displays information about a specific song.
- ##### Movie-this
+ ### Movie-this
  ![movie-this](/Demo/movie-this.gif)
  * Displays information about a specific movie.
- ##### Do-what-it-says
+ ### Do-what-it-says
  ![textfile](/Demo/Capture.JPG)
  * Reads a command from a text file, in this case random.txt.
  
  ![do-what-it-says](/Demo/text-command.gif)
  
- ### Command History
+ ## Command History
  In addition to searches, the application also creates and writes your previous searches into a file.
  ![Search](/Demo/Capture2.JPG)
  
